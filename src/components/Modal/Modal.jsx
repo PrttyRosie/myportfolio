@@ -27,10 +27,10 @@ const Modal = ({ closeModal }) => {
                             Web Application Development
                         </li>
                         <li>
-                            Custom Software Development
+                            Custom Brand Identity Logos
                         </li>
                         <li>
-                            Software Prototyping
+                            Web Designing
                         </li>
                     </ul>
                 </div>

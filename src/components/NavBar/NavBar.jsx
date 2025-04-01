@@ -36,10 +36,6 @@ class NavBar extends React.Component {
                     className={`menu-item ${path === '/about' ? 'active-item' : ''}`}>
                     About
                 </Link>
-                <Link to='/projects' onClick ={()=>this.closeMenu()}
-                    className={`menu-item ${path === '/projects' ? 'active-item' : ''}`}>
-                    Projects
-                </Link>
                 <Link to='/skills' onClick ={()=>this.closeMenu()} 
                     className={`menu-item ${path === '/skills' ? 'active-item' : ''}`}>
                     Skills

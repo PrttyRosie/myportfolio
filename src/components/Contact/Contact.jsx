@@ -53,32 +53,12 @@ function Contact() {
         </form>
       </div>
       <div className='social-icons-container'>
-        <a href="https://github.com/anandbaraik"
+        <a href="https://github.com/PrttyRosie"
           className='social-icon'
           target="_blank" rel="noreferrer">
           <img src={gitHub} alt='github' loading="lazy"/>
         </a>
-        <a href="https://www.linkedin.com/in/anandbaraik/"
-          className='social-icon'
-          target="_blank" rel="noreferrer">
-          <img src={linkedIn} alt='linkedin' loading="lazy"/>
-        </a>
-        <a href="https://peerlist.io/anandbaraik"
-          className='social-icon'
-          target="_blank" rel="noreferrer">
-          <img src={web} alt='web' loading="lazy"/>
-        </a>
-        <a href="https://anandbaraik.hashnode.dev/"
-          className='social-icon'
-          target="_blank" rel="noreferrer">
-          <img src={hashnode} alt='hashnode' loading="lazy"/>
-        </a>
-        <a href="https://medium.com/@anandbaraik"
-          className='social-icon'
-          target="_blank" rel="noreferrer">
-          <img src={medium} alt='medium' loading="lazy"/>
-        </a>
-        <a href="https://www.instagram.com/anand__babu/"
+        <a href="https://www.instagram.com/m.roseaa_a/"
           className='social-icon'
           target="_blank" rel="noreferrer">
           <img src={instaGram} alt='instagram' loading="lazy"/>

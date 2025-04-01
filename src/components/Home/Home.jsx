@@ -24,7 +24,7 @@ class Home extends Component {
                     Welcome to my portfolio!
                 </h1>
                 <p>
-                    This is Anand Baraik, a <u>software engineer</u>.
+                    This is Melrose Alonsagay, a <u>Frontend Developer</u>.
                 </p>
             </div>
             <div className="header-btns">

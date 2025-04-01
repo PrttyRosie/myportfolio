@@ -15,11 +15,11 @@ function About() {
         <div className='about-main-left'>
             <h3 className='about-sub-heading'>Developer</h3>
             <p className='about-sub-heading-details'>
-              I’m a <u>software engineer</u>. building software for people and businesses. I love building software that solves real-world problems, add value to society through technology.
+              I’m a <u>Frontend Developer</u>. building software for people and businesses. I love building websites that gives aethetics definition and add value to society through technology.
             </p>
-            <h3 className='about-sub-heading'>Blogger</h3>
+            <h3 className='about-sub-heading'>Artist</h3>
             <p className='about-sub-heading-details'>
-              I've been writing blogs from around 3 years now, i used to write on Quora then i moved to hashnode now. you can read my articles <a href="https://anandbaraik.hashnode.dev/" target="_blank" rel="noreferrer">here!</a>
+              I've been drawing since then and I incorporatetalent and creativity in technology to boost my creativity even more.
             </p>
         </div>
         <div className='about-main-right'>
